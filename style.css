@@ -1,0 +1,16 @@
+body{
+font-family: Arial;
+background:#fafafa;
+margin:0;
+}
+
+header{
+background:#ff3040;
+color:white;
+padding:15px;
+font-size:22px;
+}
+
+.feed{
+padding:20px;
+}
